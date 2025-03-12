@@ -53,7 +53,8 @@ To illustrate the difference, I recorded a short video comparing both approaches
 1. First, I attempt to manually create an audio file by navigating a free TTS website, dealing with its intrusive ads, generating the file, and renaming it.
 2. Then, I use my Python script to generate all 52 files — faster than I could manually create one.
 
-[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/H3bCx-3aMz4)
+[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://youtu.be/H3bCx-3aMz4)
+
 
 The side-by-side comparison makes it clear just how much time automation saved me.
 
