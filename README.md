@@ -1,8 +1,8 @@
 # psy-9-audio-generator
 What’s more magical than saving hours of work? This Python script automates audio file creation for the Psy-9 magic trick.
 
-Part of the Psy-9 Project
-This tool supports the Psy-9 effect — a real-time, voice-based, AI-assisted magic trick. For the main magic system, see the Psy-9 repo(https://github.com/NickMallay/Psy-9).
+Part of the Psy-9 Project - 
+This tool supports the Psy-9 effect — a real-time, voice-based, AI-assisted magic trick. For the main magic system, see the Psy-9 repo. (https://github.com/NickMallay/Psy-9)
 
 
 ## Automating Audio File Generation for Psy 9: Saving Hours with Python
